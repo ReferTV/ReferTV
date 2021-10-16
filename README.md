@@ -1,4 +1,5 @@
-### Hi there 👋
+### Cześć, z tej strony Wiktor 👋
+Możesz się ze mną skontaktować na discordzie ReferTV#1770
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReferTV)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
