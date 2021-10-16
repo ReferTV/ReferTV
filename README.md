@@ -5,6 +5,9 @@ Możesz się ze mną skontaktować na discordzie ReferTV#1770
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReferTV)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReferTV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ReferTV/ReferTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
