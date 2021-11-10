@@ -1,4 +1,4 @@
-### Hi, I'm Viktor. J, and this is my profile on GitHub 👋
+### Hi, I'm Wiktor. J, and this is my profile on GitHub 👋
 Currently you can contact me via message on discord: ReferTV#1770
 
 Soon, projects will start appearing in this account.
