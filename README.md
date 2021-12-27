@@ -1,6 +1,8 @@
 ### Hi, I'm Wiktor. J, and this is my profile on GitHub 👋
 Currently you can contact me via message on discord: ReferTV#1770
 
+I am the founder of [GamesMC Studios](https://github.com/GamesMC-Studios).
+
 Soon, projects will start appearing in this account.
 
 
