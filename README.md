@@ -1,15 +1,18 @@
-### Hi, I'm Wiktor. J, and this is my profile on GitHub 👋
-Currently you can contact me via message on discord: ReferTV#1770
+# Hello, I'm Wiktor, and this is my profile on GitHub 👋
 
-I am the founder of [GamesMC Studios](https://github.com/GamesMC-Studios).
+🧩 Currently I am expanding my knowledge in Java, Vue.js and Vuetify.
 
-Soon, projects will start appearing in this account.
+I'm the founder of [GamesMC Studios](https://github.com/GamesMC-Studios) organization.
+Also I own a Minecraft server, which you can find by it's IP address **GamesMC.pl**
+
+## Recommended projects I help with 
+> Free, open-source and no-cost, itemshop: https://github.com/michaljaz/itemszop
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReferTV&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReferTV&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReferTV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
