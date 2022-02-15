@@ -3,7 +3,7 @@
 🧩 Currently I am expanding my knowledge in Java, Vue.js and Vuetify.
 
 I'm the founder of [GamesMC Studios](https://github.com/GamesMC-Studios) organization.
-Also I own a Minecraft server, which you can find by it's IP address **GamesMC.pl**
+Also I own a server, which you can find by it's IP address **GamesMC.pl**
 
 ## Recommended projects I help with 
 > Free, open-source and no-cost, itemshop: https://github.com/michaljaz/itemszop
