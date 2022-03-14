@@ -1,6 +1,6 @@
 # Hello, I'm Wiktor, and this is my profile on GitHub 👋
 
-🧩 Currently I am expanding my knowledge in Java, Vue.js and Vuetify.
+🧩 Currently I am expanding my knowledge in Java, Nuxt.js.
 
 I'm the founder of [GamesMC Studios](https://github.com/GamesMC-Studios) organization.
 Also I own a server, which you can find by it's IP address **GamesMC.pl**
