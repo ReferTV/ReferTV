@@ -7,6 +7,7 @@ Also I own a server, which you can find by it's IP address **GamesMC.pl**
 
 ## Recommended projects I help with 
 > Free, open-source and no-cost, itemshop: https://github.com/michaljaz/itemszop
+> Plugin for itemszop project: https://github.com/michaljaz/itemszop-plugin
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReferTV&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
