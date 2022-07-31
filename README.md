@@ -6,7 +6,7 @@ I'm the founder of [GamesMC Studios](https://github.com/GamesMC-Studios) organiz
 Also I own a server, which you can find by it's IP address **GamesMC.pl**
 
 ## Recommended projects I help with 
-> Free, open-source and no-cost, itemshop: https://github.com/michaljaz/itemszop
+> Free, open-source and no-cost, itemshop: https://github.com/michaljaz/itemszop  
 > Plugin for itemszop project: https://github.com/michaljaz/itemszop-plugin
 
 
