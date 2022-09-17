@@ -1,14 +1,16 @@
-# Hello, I'm Wiktor, and this is my profile on GitHub 👋
+# Hello, I'm Wiktor Józwiak, welcome to my profile on GitHub 👋
 
-🧩 Currently I am expanding my knowledge in Java, Nuxt.js.
+🌱 Currently I am expanding my knowledge in Java and Nuxt.js.
 
 I'm the founder of [GamesMC Studios](https://github.com/GamesMC-Studios) organization.
-Also I own a server, which you can find by it's IP address **GamesMC.pl**
+Also I own a Minecraft server, which you can find by it's IP address **GamesMC.pl**
 
-## Recommended projects I help with 
-> Free, open-source and no-cost, itemshop: https://github.com/michaljaz/itemszop  
-> Plugin for itemszop project: https://github.com/michaljaz/itemszop-plugin
+💬 Ask me about something on Discord **ReferTV#1770**
 
+## Recommended projects that I have created or assist in. 
+> Free Minecraft shop for your server: https://github.com/ItemSzop    
+> Java plugin to integrate your server with Itemszop: https://github.com/ItemSzop/itemszop-plugin   
+> GSM Codes for Polish Telephony: https://github.com/ReferTV/gsm-codes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReferTV&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
